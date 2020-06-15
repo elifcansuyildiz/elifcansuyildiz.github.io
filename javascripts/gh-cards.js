@@ -47,7 +47,7 @@ let style = `
     font-family: 'Arial';
     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
     transition: 0.3s;
-    width: 66%;
+    width: 90%;
     text-align: center;
     display: block;
     margin-left: auto;
@@ -57,7 +57,8 @@ let style = `
     }
     display: inline-block;
     color: #606060;
-  margin: 8px;
+  margin-top: 30px;
+  margin-bottom: 30px;
   border-radius: 5px;
 }
 
