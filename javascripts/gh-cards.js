@@ -47,7 +47,14 @@ let style = `
     font-family: 'Arial';
     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
     transition: 0.3s;
-    width: 600px;
+    width: 66%;
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    @include mobile {
+      width: 90%;
+    }
     display: inline-block;
     color: #606060;
   margin: 8px;
