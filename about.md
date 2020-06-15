@@ -4,13 +4,15 @@ title: About Me
 permalink: /about/
 ---
 
-Hi! I am Salih Marangoz, was working as Robotics Specialists. I am passionately studying on simultaneous localization and mapping (SLAM) algorithms, autonomous navigation and deep neural networks.
+Machine Learning Engineer with two years of experience in project works. Skilled in deep learning (certified), machine learning, big data and statistics frameworks. Seeking to develop high-performance models on challenging problems. 
+
+My research interests are Artificial Intelligence, Computer Vision (Object detection, semantic segmentation, depth estimation, emotion analysis, image generation), Deep Learning and Robotics.
 
 This is my portfolio website. You can find my publications, projects and resume using the navigation menu.
 
 ### Contact me
 
-[salih285@gmail.com](mailto:salih285@gmail.com)
+[cansu96yildiz@gmail.com](mailto:cansu96yildiz@gmail.com)
 
 ### Testing
 
