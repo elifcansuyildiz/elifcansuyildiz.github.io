@@ -31,14 +31,13 @@ permalink: /projects/
   </div> -->
 
 
-  <div class="gh-card gh-large" data-repo="elifcansuyildiz/DataMiningLibraryForSparklingWaterPlatform" data-image="../images/project/proposedDME.png"></div>
+  <div class="gh-card gh-large" data-repo="elifcansuyildiz/DataMiningLibraryForSparklingWaterPlatform" data-image="../images/projects/proposedDME.png"></div>
 
   <div class="gh-card gh-large" data-repo="elifcansuyildiz/PathPlanningGeneticAlgorithm" data-image="../images/projects/pathPlanningGeneticAlgorithm_img.png"></div>
 
   <div class="gh-card gh-large" data-repo="elifcansuyildiz/ImageGenerationGeneticAlgorithm" data-image="../images/projects/imageGenerationGeneticAlgorithm_img.png"></div>
 
-  <div class="gh-card gh-large" data-repo="elifcansuyildiz/Improved Reverse Chess AI with Genetic Algorithm
-"> </div>
+  <div class="gh-card gh-large" data-repo="elifcansuyildiz/ImprovedReverseChessAIwithGeneticAlgorithm"> </div>
 
   <div class="gh-card gh-large" data-repo="elifcansuyildiz/HadoopNetflixPrizeDataset"> </div>
 
