@@ -3,13 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: Salih Marangoz
+name: Elif Cansu YILDIZ
 
 # Short bio or description (displayed in the header)
-description: Robotics Developer
+description: Machine Learning Engineer
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/salihmarangoz/salihmarangoz.github.io/master/images/profile.jpg
+avatar: https://raw.githubusercontent.com/salihmarangoz/salihmarangoz.github.io/master/images/profile.PNG
 
 #
 # Flags below are optional
@@ -18,12 +18,12 @@ avatar: https://raw.githubusercontent.com/salihmarangoz/salihmarangoz.github.io/
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: salih285@gmail.com
+  email: elifcansuyildiz.com
   facebook:
   flickr:
-  github: salihmarangoz
-  instagram: marangozsalih
-  linkedin: salih-marangoz
+  github: elifcansuyildiz
+  instagram: elifcansuyildiz
+  linkedin: elif-cansu-yildiz
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter:
@@ -34,14 +34,14 @@ footer-links:
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
-disqus: salihmarangoz
+disqus:
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics: UA-169341427-1
+google_analytics: UA-169429015-1
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: https://salihmarangoz.github.io
+url: https://elifcansuyildiz.github.io
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
