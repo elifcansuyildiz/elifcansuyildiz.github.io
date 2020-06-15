@@ -6,9 +6,8 @@ permalink: /projects/
 
 
 <div class="repo-container">
-
 <!--   <div class="repo-card">
-    <a href="https://github.com/salihmarangoz/vl53l1x_scanner">
+    <a href="https://github.com/elifcansuyildiz/DataMiningLibraryForSparklingWaterPlatform">
       <img src="https://gh-card.dev/repos/salihmarangoz/vl53l1x_scanner.svg">
     </a>
   </div>
@@ -32,19 +31,13 @@ permalink: /projects/
   </div> -->
 
 
-  <div class="gh-card gh-large" data-repo="salihmarangoz/DrawOnConsole" data-image="../images/projects/DrawOnConsole.gif"></div>
+  <div class="gh-card gh-large" data-repo="elifcansuyildiz/DataMiningLibraryForSparklingWaterPlatform" data-image="../img/proposedDME.png"></div>
 
-  <div class="gh-card gh-large" data-repo="salihmarangoz/RobotMappingCourse" data-image="../images/projects/RobotMappingCourse.gif"></div>
+  <div class="gh-card gh-large" data-repo="elifcansuyildiz/PathPlanningGeneticAlgorithm" data-image="../img/exmp6.png"></div>
 
-  <div class="gh-card gh-large" data-repo="salihmarangoz/vl53l1x_scanner" data-image="../images/projects/vl53l1x_scanner.png"></div>
+  <div class="gh-card gh-large" data-repo="elifcansuyildiz/ImageGenerationGeneticAlgorithm" data-image="../img/example2.png"></div>
 
-  <div class="gh-card gh-large" data-repo="salihmarangoz/deep_navigation" data-image="../images/projects/deep_navigation.png"></div>
-
-  <div class="gh-card gh-large" data-repo="salihmarangoz/PathPlanningGeneticAlgorithm" data-image="../images/projects/PathPlanningGeneticAlgorithm.png"></div>
-
-  <div class="gh-card gh-large" data-repo="salihmarangoz/ImageGenerationGeneticAlgorithm" data-image="../images/projects/ImageGenerationGeneticAlgorithm.png"></div>
-
-  <div class="gh-card gh-large" data-repo="salihmarangoz/WashingMachineArduinoTimer" data-image="../images/projects/WashingMachineArduinoTimer.png"></div>
+  <div class="gh-card gh-large" data-repo="elifcansuyildiz/HadoopNetflixPrizeDataset"> </div>
 
 
   <script src="../javascripts/gh-cards.js"></script>
