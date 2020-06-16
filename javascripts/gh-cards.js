@@ -102,7 +102,7 @@ injectStyle(style);
 function send_card_inner_html(card, json) {
     card.innerHTML = `
       <div class="imgcontainer">
-        <img class="gh" src="${card.getAttribute('data-image') || json.owner.avatar_url}">
+        <img class="gh" src="${card.getAttribute('data-image') || json.avatar_url}">
       </div>
       <div class="gh container">
         <h4 class="gh">
@@ -149,6 +149,8 @@ for(let card of cards) {
     mini_json.stargazers_count = json.stargazers_count;
     mini_json.forks_count = json.forks_count;
     mini_json.description = json.description;
+    mini_json.avatar_url = json.owner.avatar_url;
+    
 
     Cookies.set(repo, JSON.stringify(mini_json), { expires: 1 });
 
@@ -170,6 +172,7 @@ for(let card of cards) {
     mini_json.stargazers_count = json.stargazers_count;
     mini_json.forks_count = json.forks_count;
     mini_json.description = json.description;
+    mini_json.avatar_url = json.avatar_url;
 
     send_card_inner_html(card, mini_json);
   }
