@@ -111,7 +111,7 @@ function send_card_inner_html(card, json) {
           </a>
         </h4>
         <p class="gh">${json.description}</p>
-        <a class="gh" href="${json.html_url}">
+<!--    <a class="gh" href="${json.html_url}">
           <i class="fa fa-fw fa-code" aria-hidden="true"></i> ${json.language}
           <i class="fa fa-fw" aria-hidden="true"></i>
         </a>
@@ -121,7 +121,7 @@ function send_card_inner_html(card, json) {
         </a>
         <a class="gh" href="${json.html_url}">
           <i class="fa fa-fw fa-code-fork" aria-hidden="true"></i> ${json.forks_count}
-        </a>
+        </a>             -->
 
       </div>
     `;
