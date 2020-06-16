@@ -102,7 +102,7 @@ injectStyle(style);
 function send_card_inner_html(card, json) {
     card.innerHTML = `
       <div class="imgcontainer">
-        <img class="gh" src="${card.getAttribute('data-image') || '../images/jekyll-logo.png' }">
+        <img class="gh" src="${card.getAttribute('data-image') || json.owner.avatar_url}">
       </div>
       <div class="gh container">
         <h4 class="gh">
