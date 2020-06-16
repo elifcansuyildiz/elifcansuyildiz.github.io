@@ -42,6 +42,7 @@ permalink: /projects/
   <div class="gh-card gh-large" data-repo="elifcansuyildiz/HadoopNetflixPrizeDataset"> </div>
 
 
+  <script src="../javascripts/js.cookie.min.js"></script>
   <script src="../javascripts/gh-cards.js"></script>
 </div>
 
