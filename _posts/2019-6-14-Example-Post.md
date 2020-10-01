@@ -2,7 +2,7 @@
 layout: post
 type: blog
 title: Example Post
-feature-img: "/images/projects/ExamplePostImg.png"
+feature-img: "/images/ExamplePostImg.png"
 toc: true
 mathjax: true
 comments: true
