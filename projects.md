@@ -31,7 +31,7 @@ permalink: /projects/
   </div> -->
 
 
-  <div class="gh-card gh-large" data-repo="elifcansuyildiz/DataMiningLibraryForSparklingWaterPlatform" data-image="../images/projects/DataMiningLibraryImg.png"></div>
+  <div class="gh-card gh-large" data-title="Proposed Extension Data Mining Library" data-description="In this project, a collection of algorithms handling the steps of data mining was developed using the Apache Spark and the H2O platform." data-repo="elifcansuyildiz/DataMiningLibraryForSparklingWaterPlatform" data-image="../images/projects/DataMiningLibraryImg.png"></div>
 
   <!-- <div class="gh-card gh-large" data-repo="elifcansuyildiz/PathPlanningGeneticAlgorithm" data-image="../images/projects/pathPlanningGeneticAlgorithm_img.png"></div> -->
 
