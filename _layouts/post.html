@@ -12,6 +12,12 @@ layout: default
   <script type="text/javascript" src="https://code.jquery.com/jquery-latest.js"></script>
   <script type="text/javascript" src="../javascripts/jquery.jqTOC.js"></script>
 
+<script>
+  function resizeIframe(obj) {
+    obj.style.height = obj.contentWindow.document.documentElement.scrollHeight + 50 + 'px';
+  }
+</script>
+
 <article class="post">
   <center><h1>{{ page.title }}</h1></center>
 

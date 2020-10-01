@@ -154,7 +154,7 @@ for(let card of cards) {
 
     Cookies.set(repo, JSON.stringify(mini_json), { expires: 1 });
 
-    send_card_inner_html(card, json);
+    send_card_inner_html(card, mini_json);
       
     }).catch(err => {
       console.log(err);
