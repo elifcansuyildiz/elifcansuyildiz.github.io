@@ -3,7 +3,7 @@ layout: post
 type: blog
 title: Spark Data Frame Notes
 feature-img: "/images/SparkDataFrameImg.png"
-toc: true
+toc: false
 mathjax: true
 comments: true
 published: true
