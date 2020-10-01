@@ -39,7 +39,7 @@ permalink: /projects/
 
   <div class="gh-card gh-large" data-repo="elifcansuyildiz/ImprovedReverseChessAIwithGeneticAlgorithm" data-image="../images/reverseChessAI.png"> </div>
 
-  <div class="gh-card gh-large" data-repo="elifcansuyildiz/HadoopNetflixPrizeDataset"> </div>
+  <div class="gh-card gh-large" data-repo="elifcansuyildiz/HadoopNetflixPrizeDataset" data-image="../images/images/HadoopNetflixImg.png"> </div>
 
 
   <script src="../javascripts/js.cookie.min.js"></script>
